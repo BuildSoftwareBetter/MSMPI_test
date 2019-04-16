@@ -1,1 +1,1 @@
-README
+MSMPI笔记：https://blog.csdn.net/lwwl12/article/details/89339204
